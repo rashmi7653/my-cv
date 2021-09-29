@@ -1,0 +1,21 @@
+.nav-wrapper .fas{
+  font-size: 15px;
+}
+
+.flex-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+p{
+  text-align: justify;
+}
+
+.exp-list li{
+  list-style-type: disc !important;
+}
+.proj-list{
+  list-style-type: lower-roman;
+}
+
